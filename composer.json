@@ -1,0 +1,6 @@
+{
+    "require": {
+        "tideways/profiler": "^2.0",
+        "raulfraile/ladybug": "^1.0"
+    }
+}
